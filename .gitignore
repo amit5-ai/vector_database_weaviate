@@ -1,2 +1,7 @@
 
 embeddings1.bmp
+all_short_clauses_test.csv
+all_short_clauses_train.csv
+OPENAI_API_KEY.txt
+WCS_CLUSTER_URL.txt
+WCS_DEMO_RO_KEY.txt
